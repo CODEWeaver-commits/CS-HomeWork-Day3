@@ -12,7 +12,7 @@ namespace CS_HomeWork_Day3_08
         public byte[][] Grades = new byte[3][];
         public enum Subject
         {
-            Programming = 1, //
+            Programming = 1,
             Administration,
             Design
         }
