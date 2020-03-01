@@ -8,7 +8,7 @@ namespace CS_HomeWork_Day3_01
         {
             public int ItemID { get; private set; }
             public string ItemName { get; private set; }
-            public double ItemPrice { get; private set; }
+            public decimal ItemPrice { get; private set; }
             public ArticleType type { get; private set; }
         }
     }

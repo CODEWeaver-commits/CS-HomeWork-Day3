@@ -11,7 +11,7 @@ namespace CS_HomeWork_Day3_02
             public string Adress { get; private set; }
             public string Phone { get; private set; }
             public int OrderQuantity { get; private set; }
-            public double OverallOrdersSum { get; private set; }
+            public decimal OverallOrdersSum { get; private set; }
             public Importance importance { get; private set; }
         }
     }
